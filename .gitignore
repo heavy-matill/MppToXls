@@ -2,7 +2,6 @@
 __pycache__/
 *.py[oc]
 build/
-dist/
 wheels/
 *.egg-info
 
@@ -12,7 +11,6 @@ wheels/
 # PyInstaller
 *.spec
 *.manifest
-*.exe
 
 # Temporary files
 *.xlsx
